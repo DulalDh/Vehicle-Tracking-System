@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SASTC Bus1</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="developer_names"><![CDATA[Developed by: Animash Roy, Dulal Hossain & Bishwajit Roy]]></string>
+</resources>
